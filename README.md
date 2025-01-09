@@ -1,4 +1,4 @@
-# Figma Portfolio for Social 
+# Figma Portfolio for Social App Ghost
 
 Ghost is a social app designed to provide a safe space for users, especially teenagers, to connect and share their thoughts anonymously. The app includes features such as user groups, mental health resources, and appointment booking with professionals. This is the figma prototype, and I have developed in React and database based on that.
 
